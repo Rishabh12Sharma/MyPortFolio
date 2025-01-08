@@ -1,0 +1,37 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 2rem;
+    position: relative;
+  }
+  
+  .footer p {
+    font-size: 1rem;
+    margin: 0;
+  }
+  
+  .social-links {
+    margin-top: 1rem;
+  }
+  
+  .social-link {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 1rem;
+    font-size: 1.2rem;
+    transition: color 0.3s ease;
+  }
+  
+  .social-link:hover {
+    color: #646cff;
+  }
+  
+  .social-link.linkedin:hover {
+    color: #0077b5; /* LinkedIn Blue */
+  }
+  
+  .social-link.github:hover {
+    color: #333; /* GitHub Dark */
+  }
+  
