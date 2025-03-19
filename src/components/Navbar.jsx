@@ -12,7 +12,7 @@ function Navbar() {
         <li><a href="#skills">Skills</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
-      <a href="https://drive.google.com/file/d/1BW7zsOSWwPHyfQu-RfC4q27qzOSmeVIM/view?usp=sharing" 
+      <a href="https://drive.google.com/file/d/19Rs-B7pCv1fZ_5P72FaCNRDowjkmIyiZ/view?usp=sharing" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="resume-btn"
